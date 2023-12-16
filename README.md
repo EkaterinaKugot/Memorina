@@ -4,7 +4,7 @@
 
 ## Демонстрация
 
-![gif_1](https://github.com/EkaterinaKugot/qml/blob/main/Memorina/result.gif)
+![gif_1](https://github.com/EkaterinaKugot/Memorina/blob/main/result.gif)
 
 
 
